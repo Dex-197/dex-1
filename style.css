@@ -6,3 +6,7 @@ h1 {
 p {
     border-bottom: black 2px solid;
 }
+
+body {
+    background-color: aqua;
+}
